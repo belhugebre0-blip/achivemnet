@@ -1,7 +1,5 @@
 <template>
-  <div id="app">
-    <h1>achivemnet</h1>
-  </div>
+  <router-view />
 </template>
 
 <script setup>
